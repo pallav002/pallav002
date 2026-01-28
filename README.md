@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Pallav Choudhary
 
 🎓 B.Tech. CSE Student @ Medi-Caps University  
-💻 Aspiring Full Stack & Java Developer  
+💻 Python AI Developer D 
 📍 Indore, Madhya Pradesh, India  
 
 ---
