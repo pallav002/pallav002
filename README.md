@@ -29,8 +29,6 @@ I’m a passionate and curious software developer with hands-on experience in Ja
 - **Java Developer Intern** @ Edvedha (Jan 2024 – Mar 2024)  
   Developed backend solutions with Java, JDBC, and Servlets. Focused on database integration and performance optimization.
 
-- **Python Developer Intern** @ Technman Consulting Pvt. Ltd. (Jan 2025 – Feb 2025)  
-  Gained experience in Python scripting and backend logic building.
 
 ---
 
